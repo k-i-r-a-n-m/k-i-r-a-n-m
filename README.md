@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @k-i-r-a-n-m
+- 👋 Hi, I’m Kiran (@k-i-r-a-n-m)
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently pursuing MCA  
+- 👨‍🎓 MCA Graduate
 
 
 <!---
